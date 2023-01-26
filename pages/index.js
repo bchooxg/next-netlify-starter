@@ -13,10 +13,10 @@ const quotes = [
     quote: 'If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you.'
   },
   {
-    quote: 'People who are crazy enough to think they can change the world, are the ones who do.',
+    quote: 'People who are crazy enough to think they can change the world, are the ones who do.'
   },
   {
-    quote: 'Failure will never overtake me if my determination to succeed is strong enough.',
+    quote: 'Failure will never overtake me if my determination to succeed is strong enough.'
   },
   {
     quote: 'Entrepreneurs are great at dealing with uncertainty and also very good at minimizing risk. That’s the classic entrepreneur.'
